@@ -1,0 +1,22 @@
+naam = "Sem"
+leeftijd = 17
+positie = "LM"
+snelheid = 86
+schieten = 60
+passen = 70
+dribbelen = 75
+verdedigen = 40
+fysiek = 60
+algemeen = 70
+zilver = True 
+print ("naam: "+ naam)
+print ("leeftijd:"+ str(leeftijd))
+print ("positie:"+ positie)
+print ("snelheid:"+ str(snelheid))
+print ("schieten:"+ str(schieten))
+print ("passen:"+ str(passen))
+print ("dribbelen:"+ str(dribbelen))
+print ("verdedigen:"+ str(verdedigen))
+print ("fysiek:"+ str(fysiek))
+print ("algemeen:"+ str(algemeen))
+print ("zilver:"+ str(zilver))
